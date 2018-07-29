@@ -29,7 +29,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.d</mainClass>
+                    <mainClass>com.dreamyao.demo.basic.BasicDemoApplication</mainClass>
                     <!--<fork>true</fork>--><!--要让devtools生效需要放开-->
                 </configuration>
                 <executions>
